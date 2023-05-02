@@ -14,6 +14,16 @@ Em xem lại điểm môn ----lớp ---- trong bảng --- ghi là --- nhưng tro
 - Em vui lòng không kê khai và không upload hình ảnh chứng chỉ tiếng Anh quốc tế.
 Lý do: Chỉ đăng ký phương thức ĐGNL thì không cần chứng chỉ IELTS
 
+Em kiểm tra lại điểm ở bảng 1, bảng 2 và mục 3: thông tin chung
+- Bảng 1: ĐTB HK1-lớp 12 ghi là 9.4 mà dữ liệu đăng ký là 9.1
+- Bảng 2: ĐTB HK1-lớp 12 môn Toán - Lý - Anh ghi là 8.5 - 8.5 - 9.7 mà dữ liệu đăng ký là 9.1 - 8.6 - 9.9
+- Mục 3: HK1-lớp 12 môn Toán - Anh ghi là 8.5 - 9.7 mà dữ liệu đăng ký là 9.1 - 9.9
+
+Đã điều chỉnh tên trường năm lớp 11, 12 từ
+
+Lê thị trà my
+TRẦN NGỌC KHÁNH
+
 CCCD lầu 1 103
 
 Mã trường
