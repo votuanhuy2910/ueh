@@ -1,27 +1,56 @@
 bàn 2 Cô Xuân Tâm
+	Đăng ký học phần, hủy học phần chính quy, bổ sung học phần
 
 bàn 3 Cô Thanh Tâm
+	Đăng ký học phần, hủy học phần, bổ sung học phần (Văn bằng 2)
 
 bàn 4 Thầy Tấn
+	Kiểm tra liên thông chính quy (không có thầy Tài thì qua thầy Tấn)
+	Văn bằng 2 chính quy:
+	Liên quan đến WES:
 
 bàn 5 Cô Uyên
+	Giấy xác nhận sinh viên đã tốt nghiệp mà còn nợ môn:
 
 bàn 6 Cô Lan
+	Thi ghép:
+	Vấn đề xét tốt nghiệp, các chứng chỉ: IELTS:
+	Mua sách Tiếng Anh đầu ra:
+	Vắng thi có phép:
 
 bàn 7 Thầy Tài
+	Kiểm tra quá trình học tập của tất cả khóa sinh viên:
+	Kiểm tra xếp hạng lớp, khoa cho SV:
 
 bàn 8 Thầy Ký
+	Bổ sung hồ sơ liên thông:
+	Rút hồ sơ:
+	Điều chỉnh thông tin hồ sơ SV:
+	
 
 bàn 9 Thầy Trung
+	Thay đổi cmt -> cccd:
+	Xét tuyển thẳng PT2
 
 bàn 10 Cô Trinh
+	Chuyển trường 0 tuyển sinh:
+	Bảo lưu:
+	Chuyển ngành:
+	Chuyển từ đại trà sang chất lượng cao:
 
 bàn 11 Cô Tố Quyên
+	Bổ sung hồ sơ văn bằng 2:
 
 bàn 12 Cô Hạnh
+	Vấn đề về đối tượng thương binh
 
 bàn 14 Thầy Hà
+	Liên thông cao đẳng lên đại học:
+	Chuyển điểm:
+	Trao đổi sinh viên giữa các trường:
 
 bàn 15 Thầy Can
+	Tư vấn song ngành:
+	Giấy xác nhận sinh viên nghĩa vụ:
 
-bàn 16 Cô Bình
+bàn 16 Bình
